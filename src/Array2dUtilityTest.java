@@ -55,6 +55,9 @@ public class Array2dUtilityTest {
 
     @org.junit.jupiter.api.Test
     void average() {
+        System.out.println(Array2dUtility.average(array2d));
+        System.out.println(Array2dUtility.average(array2d2));
+        System.out.println(Array2dUtility.average(array2d3));
         assertTrue(Array2dUtility.average(array2d) == 10.44);
         assertTrue(Array2dUtility.average(array2d2) == 30.88);
         assertTrue(Array2dUtility.average(array2d3) == 40.2);
