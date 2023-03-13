@@ -36,9 +36,7 @@ public class Array2dUtility {
     // Reminder: call your sum method within the average method.
     public static float average(int[][] array)
     {
-        float average = sum(array) / ((float) array.length * array[0].length);
-//        System.out.println(average);
-        return average;
+        return sum(array) / ((float) array.length * array[0].length);
     }
 
     // 4. minimum

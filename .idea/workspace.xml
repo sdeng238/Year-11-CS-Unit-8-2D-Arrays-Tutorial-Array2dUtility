@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86028e4d-be1f-4513-8212-b22d49dcc17e" name="Changes" comment="Completed tests for methods average, allPositive, rowSums, and colSums.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year-11-CS-Unit-8-2D-Arrays-Tutorial-Array2dUtility.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Year-11-CS-Unit-8-2D-Arrays-Tutorial-Array2dUtility.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array2dUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2dUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array2dUtilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2dUtilityTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="86028e4d-be1f-4513-8212-b22d49dcc17e" name="Changes" comment="stupid average test &gt;:(" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,15 +52,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,6 +90,7 @@
       <workItem from="1678689902886" duration="3006000" />
       <workItem from="1678697386665" duration="1602000" />
       <workItem from="1678701634291" duration="214000" />
+      <workItem from="1678702149875" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <created>1678178215641</created>
@@ -119,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678264071021</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="stupid average test &gt;:(">
+      <created>1678702178262</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678702178262</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +142,7 @@
     <MESSAGE value="First commit." />
     <MESSAGE value="Added test stubs for additional methods average, allPositive, rowSums, and colSums." />
     <MESSAGE value="Completed tests for methods average, allPositive, rowSums, and colSums." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed tests for methods average, allPositive, rowSums, and colSums." />
+    <MESSAGE value="stupid average test &gt;:(" />
+    <option name="LAST_COMMIT_MESSAGE" value="stupid average test &gt;:(" />
   </component>
 </project>
